@@ -6,10 +6,23 @@
 
 
 一段正文，关于某个技术模块的描述信息<br>
-粉红色地方红@w的说法的素
+粉红色地方红@w的说法的素<br>
+
 <front face="黑体"黑体字行></front><br>
 
 <front size=7>七号字</front><br>
 <front size=3>三号字</front><br>
 
-<front color=#ff0000>红色字</front>
+<front color=#ff0000>红色字</front><br>
+
+*字体斜体特效*
+**粗体特效**
+***斜粗体特效***
+
+现在是一点描述，其中我要凸显`关键字`
+
+~~删除线特效~~
+
+
+
+
