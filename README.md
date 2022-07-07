@@ -43,4 +43,21 @@
 
 [GitHub](https://github.com "点击跳转GitHub")
 
+```c
+     #include<stdio.h>
+     int main()
+     {
+     	pintf("hi c:\n");
+	return 0;
+     }
 
+```
+
+
+```python
+        import os
+```
+
+```bash
+      sudo apt-get install tree
+```
